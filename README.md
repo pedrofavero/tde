@@ -10,9 +10,6 @@ Este projeto realiza operações de união, interseção, diferença e produto c
    - Acesse [Replit](https://replit.com/), crie um novo projeto e faça o upload dos arquivos.
 4. **Execute o programa**: Clique em "Run" para rodar o código.
 
-## Arquivo de Entrada (`teste2.txt`)
-
-Formato esperado:
 
 ## Funções
 
@@ -20,7 +17,3 @@ Formato esperado:
 - `intersecao(conjunto1, conjunto2)`: Interseção de conjuntos.
 - `diferenca(conjunto1, conjunto2)`: Diferença entre conjuntos.
 - `produto_cartesiano(conjunto1, conjunto2)`: Produto cartesiano de conjuntos.
-
-## Contribuição
-
-Contribuições são bem-vindas! Envie um pull request ou abra uma issue.
